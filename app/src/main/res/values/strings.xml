@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="HelloWorld">Моё первое приложение</string>
+    <string name="start">Начать</string>
+</resources>
